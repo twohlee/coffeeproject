@@ -1,0 +1,13 @@
+총 배치의 수 : 124
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       153
+           1       0.95      0.99      0.97       116
+           2       1.00      0.74      0.85        31
+
+    accuracy                           0.97       300
+   macro avg       0.98      0.91      0.94       300
+weighted avg       0.97      0.97      0.97       300
+
+
+Test set : Average loss :  0.0016, Accuracy: 18169/18709 (97%)
